@@ -86,7 +86,7 @@ img:hover{
   @media only screen and (max-width: 768px) {
 
     .bgvideo{
-        display: inline-block;
+        display: none;
     }
 
     h5 {
