@@ -104,11 +104,11 @@ img:hover{
         display: block;
      }
     .bgvideo{
-        display: none;
+        display: block;
     }
 
     h5 {
-        color: black;
+        color: rgb(67, 183, 102);
         padding: 4vw;
         display: inline-block;
     }
@@ -116,6 +116,9 @@ img:hover{
         width: 100%;
         background-color: rgb(103, 223, 157);
         text-align: center;
+    }
+    article a{
+        color: rgb(63, 178, 92);
     }
      nav a {
         color: white;
