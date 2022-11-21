@@ -86,7 +86,8 @@ img:hover{
     border: none;
   }
 
-  .dropdown:hover .dropbutton {background-color: #3e8e41;}
+  .dropdown-content a:hover {background-color: rgb(16, 11, 11);}
+
 
   @media only screen and (max-width: 768px) {
 
