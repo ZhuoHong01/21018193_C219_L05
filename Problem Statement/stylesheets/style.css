@@ -147,41 +147,4 @@ img:hover{
     }
   }
 
-  @media only screen and (max-width: 600px) {
-    nav {
-    display: none;
-    }
-    .hamburger-menu {
-    display: block;
-    }
-    .bgvideo{
-        display: none;
-    }
-
-    h5 {
-        color: white;
-        padding: 4vw;
-        display: inline-block;
-        text-align: center;
-    }
-    img {
-        width: 100%;
-        margin: 0 0 2vw;
-    }
-    .logo{
-        width: 60px;
-        position:absolute;
-        left: 0;
-        top: 0;
-    }
-    
-    .logo:hover{
-        width: 60px;
-        position:absolute;
-        left: 0;
-        top: 0;
-        transition: all 3s;
-        transform: rotate(360deg);
-        animation: backwards 3s linear 2s infinite;
-    }
- }
+  
