@@ -22,7 +22,7 @@
 a{
     font-family: "Times New Roman";
     font-size: 20px;
-    color:white;
+    color:rgb(249, 246, 246);
 }
 p{
     font-family: "Times New Roman";
@@ -75,6 +75,9 @@ text-align: center;
 img:hover{
     filter: grayscale(70%);
 }
+
+.dropdown:hover .dropdown-content {display: block;}
+
 .dropbutton {
     background-color: #c2eadb;
     color: white;
@@ -82,6 +85,8 @@ img:hover{
     font-size: 16px;
     border: none;
   }
+
+  .dropdown:hover .dropbutton {background-color: #3e8e41;}
 
   @media only screen and (max-width: 768px) {
 
