@@ -85,12 +85,15 @@ img:hover{
 
   @media only screen and (max-width: 768px) {
 
+    .left, .right, .center {
+        display: block;
+     }
     .bgvideo{
         display: none;
     }
 
     h5 {
-        color: white;
+        color: black;
         padding: 4vw;
         display: inline-block;
     }
@@ -125,6 +128,7 @@ img:hover{
         color: white;
         padding: 4vw;
         display: inline-block;
+        text-align: center;
     }
     img {
         width: 100%;
