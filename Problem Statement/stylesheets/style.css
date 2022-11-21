@@ -86,7 +86,7 @@ img:hover{
   @media only screen and (max-width: 768px) {
 
     .bgvideo{
-    e
+    
     }
 
     h5 {
@@ -108,5 +108,13 @@ img:hover{
         width: 100%;
         margin: 0 0 2vw;
     }
-
   }
+
+  @media only screen and (max-width: 600px) {
+    nav {
+    display: none;
+    }
+    .hamburger-menu {
+    display: block;
+    }
+ }
