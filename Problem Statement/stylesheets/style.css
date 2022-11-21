@@ -75,7 +75,7 @@ text-align: center;
 img:hover{
     filter: grayscale(70%);
 }
-.dropbtn {
+.dropbutton {
     background-color: #c2eadb;
     color: white;
     padding: 16px;
