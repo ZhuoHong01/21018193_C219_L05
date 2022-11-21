@@ -117,4 +117,17 @@ img:hover{
     .hamburger-menu {
     display: block;
     }
+    .bgvideo{
+        display: none;
+    }
+
+    h5 {
+        color: white;
+        padding: 4vw;
+        display: inline-block;
+    }
+    img {
+        width: 100%;
+        margin: 0 0 2vw;
+    }
  }
